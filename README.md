@@ -14,4 +14,4 @@
 ##
 ### "sepsis_individual_phenotypes.csv" contains data to calculate the most and least discrepancy between the individual phenotypes reported on both platforms.
 ##
-### The results of the analysis are available in the editorial as well as below each corresponding figure on the Jupyter Notebook.
+### The results of the analysis are available in the editorial as well as below each corresponding figure on the Jupyter Notebook titled "sepsis_metadata_results.ipynb".
